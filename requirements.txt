@@ -1,0 +1,13 @@
+pandas
+numpy
+selenium
+beautifulsoup4
+scikit-learn
+seaborn
+matplotlib
+psycopg2
+sqlalchemy
+django
+django-crispy-forms
+crispy-bootstrap5
+
